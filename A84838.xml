@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvarning to the world that are groping in the dark, after sects, opinions, and notions, which are all with the Light condemned; and by the children of Light declared against. By G: Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84838</idno>
+            <idno type="STC">Wing F1987</idno>
+            <idno type="STC">Thomason E854_7</idno>
+            <idno type="STC">ESTC R202189</idno>
+            <idno type="EEBO-CITATION">99862576</idno>
+            <idno type="PROQUEST">99862576</idno>
+            <idno type="VID">114739</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84838)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114739)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 129:E854[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvarning to the world that are groping in the dark, after sects, opinions, and notions, which are all with the Light condemned; and by the children of Light declared against. By G: Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the Black Spread-Eagle at the West end of Pauls.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept: 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Christian life --  Quaker authors --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114739:1" rendition="simple:additions"/>
+            <p>A VVARNING TO THE WORLD That are groping in the dark, after SECTS, OPINIONS, AND NOTIONS, Which are all with the Light condemned; And by the CHILDREN OF LIGHT Declared againſt.</p>
+            <p>By <hi>G: Fox.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> at the Black Spread-Eagle at the Weſt end of <hi>Pauls.</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114739:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:114739:2"/>
+            <head>A VVARNING TO THE WORLD, That are groping in the dark after Sects, Opini<g ref="char:EOLhyphen"/>ons and Notions, <hi>&amp;c.</hi>
+            </head>
+            <p>THem which the World, who are without the fear of God, calls <hi>Quakers</hi> in ſcorn, do de<g ref="char:EOLhyphen"/>ny all Opinions, and they do deny all Con<g ref="char:EOLhyphen"/>ceivings, and they do deny all Sects, and they do deny all Imaginations, and Notions, and Judge<g ref="char:EOLhyphen"/>ments, which riſeth out of the will and the thoughts; and do deny Witchcraft, and all Oaths, and the World, and the Works of it, and their Worſhips, and their Cuſtoms, with the Light; and do deny falſe ways, and falſe Worſhips, Seducers and Deceivers, which are now ſeen to be in the World with the Light; and with it they are condemned, which light leadeth to Peace and Life, from death, which now thouſands do witneſs the one Teacher Chriſt, him by whom the world was made, who raigns among the Children of Light, and with the Spirit and Power of the living God, doth let them ſee and know the chaff from the wheat, and doth ſee that which muſt be ſhaken, with that which cannot be ſhaken
+<pb n="4" facs="tcp:114739:3"/>nor moved, which gives to ſee that which is ſhaken and moved, ſuch as live in the Notions, Opinions, Con<g ref="char:EOLhyphen"/>ceivings, and thoughts, and fancies; theſe be all ſhaken, and comes to be on heaps, which they who witneſs thoſe things before mentioned ſhaken and removed, walks in peace, not ſeen and diſcerned by them, who walks in thoſe things unremoved and not ſhaken.</p>
+            <p>And all ye who are not born of the Spirit, and have it not that gave forth the Scriptures: You are they that are wrangling about the Saints words given forth from the life, and are found in the fall from the Image of God, in the Spirit and Nature that they was in, that mur<g ref="char:EOLhyphen"/>thered the Prophets, Chriſt, and the Apoſtles that gave forth the Scriptures, which could not receive their words but put them to death, which now ye children of your Fathers are wrangling about, and jangling about the words that was declared from them which your Fa<g ref="char:EOLhyphen"/>thers killed, and cannot hear their words now as your Fathers could not, but are perſecuting their Spirit which gave forth theſe words, and now their children have built great houſes, which is garniſhed with Pictures and Images, and calls your houſes by the name of St. <hi>Peter,</hi> or <hi>Paul,</hi> or Chriſt; whereas Chriſt and the Apoſtles was haled out of the Synagogues and Temples, and was beat and killed for witneſſing the ſubſtance againſt all Idola<g ref="char:EOLhyphen"/>try, and Temples, and Synagogues, and the changeable Prieſthood; which now you are making Prieſts by your wills in your great houſes, and gives the name of Chriſt, <hi>Peter,</hi> or <hi>Paul,</hi> where they teach, whereas <hi>Peter,</hi> and <hi>Paul,</hi> and Chriſt, ſuffered in ſuch places: So here is a killing the Men, the Apoſtles, and Chriſt, and thou ſets up a houſe of Wood and Stone, and gives it the Name of <hi>Peter</hi> and <hi>Paul;</hi> and where any comes to witneſs <hi>Pauls</hi> life, and <hi>Peter,</hi> or Chriſts life; yea, their children hales them out and perſecutes them, and ſo fulfils Chriſts words, who ſaid, <hi>You ſhall ſcourge in your Synagogues:</hi>
+               <pb n="5" facs="tcp:114739:3"/>Chriſt the ſame to day, yeſterday, and for ever, and ye are doing the works of your Fathers, following them in their paths and ſteps, in <hi>Cains</hi> Generation, againſt them that walks in the ſteps of Chriſt, which ever was ungodly, going from the command of God; having no habitation in the Lord, but Fugitives and Vagabonds, of old ordained for condemnation, with the light in which the Saints do walk; and ſee <hi>Cains</hi> mark by which he is known.</p>
+            <p>O <hi>England,</hi> and the Iſlands, and ſuch as be about thee, whoſe Judges judgeth for rewards, and Prieſts preach for hire, and Prophets propheſie for money, and whoſe Divines divine for money, and yet you lean upon the Lord, and ſay, <hi>Is not the Lord among you:</hi> and for this cauſe is <hi>England</hi> on heaps, as <hi>Jeruſalem</hi> became, and is as a field that muſt be plowed up, and their high places as a Foreſt, under <hi>Micahs</hi> propheſie are you come, who ſaid, <hi>Such built up</hi> Sion <hi>with blood, and</hi> Jeruſalem <hi>with iniquity;</hi> and ſo doth theſe, and ſaid, In the laſt days that the Lords houſe ſhould be eſtabliſhed upon the top of the mountains, and exalted above the hills, and many Nations ſhould ſay, <hi>Come let us go up to the mountain of the Lord, and to the houſe of the God of</hi> Jacob; he will teach us of his ways, and we will walk in his pathes; <hi>The law ſhall go forth of Sion, and the word of the Lord from Jeruſalem;</hi> and he ſhall judge among his People; now ſuch as are in the Prophets light and life, do not follow ſuch Divines as divine for money, nor Prophets which preacheth for hire, and Judges that judgeth for reward; for thoſe, their mindes are from the Light and Power, ſuch becomes to be on heaps who be in the earth, and it loves; covetuouſneſs is not hated, and there is the Spirit of Murther from the Light; ſuch ſlew Chriſt, ſuch builders build up <hi>Sion</hi> with blood, and <hi>Jeruſalem</hi> with iniquity; with the light all ſuch are condemned which comes from Chriſt, and leadeth to him the chief Corner Stone, the way to God the Father of life,
+<pb n="6" facs="tcp:114739:4"/>where life and peace is received.</p>
+            <p>Away with all your rudiments, away with all your formal Prayers, which are contrary to the Light, which are of the wicked, abomination to God; away with all your Will-worſhip, away with all your fained humility, away with all your cuſtomary Preaching and trading with the Scriptures, which bring it and wreſt it for your own ends: away with all the Traditions of men, and not after God; away with all your brain-ſtudy, and vain Divinations of your own heart and vain Philoſophy; away with all your ſinging <hi>Davids</hi> Prayers, Prophecies, Faſtings, and roaring in Meeter, which conditions were not given forth for that end; away with all your Pride, and cloaks of Profeſſion and Religion, which are not what you profeſs; away with all your inventions and luſts, for who are proud God beholds afar off; and a<g ref="char:EOLhyphen"/>way with all your Imaginations, Conceivings and Opi<g ref="char:EOLhyphen"/>nions, the Lord God is coming to ſcatter them; &amp; away with all your outſide Churches which are not in God; &amp; away with all your hirelings which preach for hire, and your Divines that divine for money; which brings the nation to be in heaps; away with all ſuch Wolves, which cloath themſelves with the Sheeps cloathing; and away with all ſuch Prieſts that bear rule by their means, which hold up the horrible filthy thing committed in the Land, which blinde the people; and away with all ſuch Sheapherds which ſeek for their gain from their Quarter, which are greedy, and have never enough; and away with all ſuch that make a prey upon the people, ſeeking for the Fleece and devouring them; and away with all ſuch that preach peace to people, but if they do not put into their mouthes, they prepare war againſt them; and away with all ſuch that paint themſelves with the Saints words, and are as whited Walls, Serpents, Graves, Sepulchres, ſtand praying in the Synagogues, called of men Maſter, under pretence make long pray<g ref="char:EOLhyphen"/>ers, and devour widows houſes, which Chriſt cryed wo againſt, <hi>Matth.</hi> 23. and away with all ſuch as ſcourges
+<pb n="7" facs="tcp:114739:4"/>ſcourges in the Synagogues, and hale out of the Synagogues, theſe are not in the life of the Go<g ref="char:EOLhyphen"/>ſpel, nor Chriſt, nor the life that gave forth the Scriptures: and away with all ſuch as go in <hi>Cains</hi> way, envying and murthering the righte<g ref="char:EOLhyphen"/>ous, perſecuting who be in the faith; and a<g ref="char:EOLhyphen"/>way with all that go in <hi>Balaams</hi> way for gifts and rewards, the wages of unrighteouſneſs, and gain<g ref="char:EOLhyphen"/>ſay the truth as <hi>Core</hi> did; and away with all ſuch that lead ſilly women captive, which be always following of them, &amp; of learning them, but never come up to the knowledge of the truth, from ſuch turn away; and away with all ſuch that tell you, ſprinkling Infants is the Baptiſm, when there is no ſuch Scripture, &amp; of the Sacraments, when there is no ſuch Scripture; &amp; away with all ſuch as told you, and tell you, the letter is the Light, and the letter is the Word, and hath given it the name of Chriſt who is the Light, and whoſe name is called the word of God; and away with all ſuch that take Tythes from poor people, and get treble damages if they will not pay them, which did not the Apoſtles nor Miniſters of God which gave forth Scripture, which they profeſs, neither did the Prophets of God go in <hi>Cains</hi> way, neither were they hirelings, neither did they bear rule by their means, nor ſeek for their gain from their Quarter, nor make a prey upon people, nor ſeek for their fleece; &amp; they that did not put into their mouthes, they did not prepare war againſt them: neither did the Apoſtles go in <hi>Balaams</hi> way, receiving the wages of unrighteouſneſs, and <hi>Core's</hi> way; and they did not tell the people, ſprinkling water on
+<pb n="8" facs="tcp:114739:5"/>the Childrens face did Baptize them into the Faith, and into the Church: Therefore the Do<g ref="char:EOLhyphen"/>ctrines of men touch them not, away with them, the Commandments of men and Ordinances of men will periſh with the uſing of them. The Pro<g ref="char:EOLhyphen"/>phets and Apoſtles had not 100 <hi>l.</hi> a year, and great ſet maintenance or Augmentations; away with all theſe that minde earthly things, that make the Goſpel chargeable.</p>
+            <p>And all people fear God, and give glory to him, and worſhip the living God which made Heaven and Earth; and away with all ſuch who call <hi>Oxford</hi> and <hi>Cambridge</hi> two Fountains, and ſo keep you from God who is the Fountain of Mercy, to truſt in thoſe Trees that cumbreth the ground, which are old and rotten, and houſes of darkneſs and of bondage; in <hi>Cains</hi> way and in <hi>Balaams</hi> way, breeding up Tradeſmen of that which was not given forth to make a Trade of, but to be read, and believed, and fulfilled, and practiſed. You Plants of the Lord God, which know the Springs of life, who to God the Fountain are come, in the life dwell that gave forth Scriptures, which was before it was given forth, which from it was given forth, which you will come to ſee, which brings to worſhip God the Father of Spi<g ref="char:EOLhyphen"/>rits; here is your joy and peace.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
